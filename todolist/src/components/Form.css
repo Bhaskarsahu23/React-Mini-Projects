@@ -1,0 +1,27 @@
+.form__container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.form__input {
+  border: none;
+  outline: none;
+  margin-inline: 1rem;
+  padding: 0.5rem;
+  width: 25rem;
+  border-radius: 3px;
+}
+
+.form__btn {
+  border: none;
+  outline: none;
+  padding: 0.4rem 1rem;
+  background-color: #de2020;
+  color: #fff;
+  font-size: 1.2rem;
+  border-radius: 3px;
+  cursor: pointer;
+}
